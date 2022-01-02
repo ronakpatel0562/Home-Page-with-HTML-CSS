@@ -306,6 +306,9 @@ a {
   background: var(--color-secondary);
 }
 
+.card--secondary .badge--secondary {
+  background: #02cdf1;
+}
 /* Plans */
 
 .plan__name {
